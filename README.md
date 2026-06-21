@@ -28,3 +28,19 @@ PERMISSIONS
 
 DISCLAIMER
 For personal automation on pages you control or are permitted to automate. Users must follow the terms of service of any website or game they use.
+
+# Privacy Policy — Auto Clicker
+Last updated: June 21, 2026
+
+Auto Clicker does not collect, transmit, or sell personal or usage data.
+
+All click points, delays, hotkeys, presets, and settings are stored locally
+on your device using Chrome's storage API (chrome.storage.local). Data is
+not sent to any server operated by the developer.
+
+We do not use analytics, advertising, or third-party tracking.
+
+Data remains on your device until you reset settings, clear extension data,
+or uninstall the extension.
+
+Contact: https://ko-fi.com/smldev915622
